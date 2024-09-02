@@ -14,7 +14,7 @@
     "serverless": "^1.0.3"
   },
   "dependencies": {
-    "axios": "^0.15.2"
+    "axios": "^0.28.0"
   },
   "scripts": {
     "deploy": "serverless deploy",
